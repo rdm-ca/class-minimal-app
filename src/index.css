@@ -1,0 +1,11 @@
+.arbitrary-block
+{
+    height: 50vmin;
+    background-color: aqua;
+}
+
+.another-arbitrary-block
+{
+    height: 50vmin;
+    background-color: green;
+}

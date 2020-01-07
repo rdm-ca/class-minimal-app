@@ -1,0 +1,8 @@
+.arbitrary-inner-block
+{
+    height: 30%;
+    background-color: orange;
+    position: absolute;
+    margin-top: 5vmin;
+    width: 50%;
+}
